@@ -74,6 +74,14 @@ The model predicts whether a transaction is **fraudulent or legitimate**.
 
 ---
 
+## 🚀 Future Enhancements
+- Use larger datasets
+- Apply Random Forest or XGBoost
+- Handle class imbalance
+- Build a web application
+
+---
+
 ## ✅ Conclusion
 This project demonstrates how machine learning can be used to detect fraudulent transactions and provides hands-on experience with classification models.
 
