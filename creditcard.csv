@@ -1,0 +1,11 @@
+Time,Amount,Transaction_Type,Location_Risk,Is_Fraud
+12,120.5,Online,High,1
+45,15.0,Offline,Low,0
+78,220.0,Online,High,1
+134,30.0,Offline,Low,0
+156,500.0,Online,High,1
+189,60.0,Offline,Medium,0
+210,450.0,Online,High,1
+245,20.0,Offline,Low,0
+278,350.0,Online,Medium,0
+300,800.0,Online,High,1
