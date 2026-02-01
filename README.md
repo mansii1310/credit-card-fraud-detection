@@ -18,7 +18,7 @@ This is a **beginner-friendly project**, suitable for **college submission** and
 ---
 
 ## 📂 Dataset Description
-Dataset file: `creditcard_fraud.csv`
+Dataset file: `creditcard.csv`
 
 | Column | Description |
 |------|-------------|
@@ -71,3 +71,13 @@ A bar graph compares the accuracy of both models.
 
 ## 🧪 Sample Prediction
 The model predicts whether a transaction is **fraudulent or legitimate**.
+
+---
+
+## ✅ Conclusion
+This project demonstrates how machine learning can be used to detect fraudulent transactions and provides hands-on experience with classification models.
+
+---
+
+## 👩‍💻 Author
+Mansi Mandlik
